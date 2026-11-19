@@ -1,6 +1,6 @@
 {
   "name": "configurable-views",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Configurable views of the Rancher UI Home page and cluster dashboard",
   "repository": "https://github.com/rancher/ui-configurable-views",
   "license": "Apache-2.0",
