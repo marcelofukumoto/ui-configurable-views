@@ -15,10 +15,10 @@ entries:
       catalog.cattle.io/ui-extensions-version: '>= 3.0.0 < 4.0.0'
     apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-11-19T16:05:16.685970717Z"
+    created: "2026-11-19T16:07:59.956789979Z"
     description: Lets you arrange your own views of the Rancher Home page and cluster
       dashboard from widgets
-    digest: fa8a9bbcdbe0df5702d96f3813986acffba9a148996f6bc6b709ed815144abf8
+    digest: 2a2973d6f306deb00d5e302a51b63dcbd37e084398a36fff44cadf34177620c7
     icon: https://raw.githubusercontent.com/rancher/ui-configurable-views/main/pkg/configurable-views/icon.svg
     name: configurable-views
     type: application
@@ -49,4 +49,4 @@ entries:
     urls:
     - assets/configurable-views/configurable-views-0.1.0.tgz
     version: 0.1.0
-generated: "2026-11-19T16:05:16.68536807Z"
+generated: "2026-11-19T16:07:59.95637199Z"
